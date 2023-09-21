@@ -4,7 +4,7 @@ Generator Contract Prestari Servicii
 
  Vezi clasa dateBeneficiar din fisierul dateBeneficiar.py pentru celelalte variabile
 
-  ```
+```python
   self.data = data_curenta.strftime("%d/%m/%Y")
   self.nr_contract = int(input("Introdu numarul contractului: "))
   self.nume_societate = str(input("Numele Societatii: "))
